@@ -1,0 +1,5 @@
+0,1000,SONG TITLE,SUNG BYYYY
+1000,15000	2000,8000,This	8050,14000,is the first line
+10000,20000	10000,20000,This is the second line
+21000,22000	21000,22000,This is the Third line
+24000,28000	24000,28000,This is the Fourth Line
